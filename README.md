@@ -2,14 +2,14 @@
 
 Aplicação simples desenvolvida em Java para calcular o Índice de Massa Corporal (IMC) a partir do peso e da altura informados pelo usuário.
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - Cálculo do IMC
 - Classificação do resultado
 - Entrada de dados pelo janela usando JOptionPane
 - Validação básica dos resultados
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Java
 - IntelliJ IDEA
@@ -17,7 +17,7 @@ Aplicação simples desenvolvida em Java para calcular o Índice de Massa Corpor
 - GitHub
 - biblioteca JOptionPane
 
-## 🧮 Fórmula
+##  Fórmula
 
 O IMC é calculado utilizando:
 
@@ -28,14 +28,14 @@ Onde:
 - Peso é informado em quilogramas 
 - Altura é informada em metros 
 
-## ▶️ Como executar
+##  Como executar
 
 1. Clone este repositório.
 2. Abra o projeto no IntelliJ IDEA.
 3. Execute o arquivo `Main.java`.
 4. Informe seu peso e sua altura quando solicitado em uma janela interativa.
 
-## 💻 Exemplo
+##  Exemplo
 
 ```text
 Digite seu peso (kg): 70
